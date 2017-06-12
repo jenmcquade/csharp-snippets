@@ -1,0 +1,36 @@
+﻿@model StoreScopeConfigurationModel
+@using SmartStore.Core
+
+<div class="multi-store-scope well well-small">
+    <table class="adminContent">
+    <tr>
+        <td class="adminTitle">
+			<div class="ctl-label">
+				@T("Admin.Configuration.Settings.StoreScope")
+			</div>
+        </td>
+        <td class="adminData">
+			@Html.DropDownList("store-scope-configuration", Model.AllStores, new { onchange = "setLocation(this.value);" })
+        </td>
+    </tr>
+    @if (Model.StoreId > 0)
+	{
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+				<label class="checkbox">
+					<input type="checkbox" onclick="Admin.checkAllOverriddenStoreValue(this)">
+					<span>@T("Admin.Configuration.Settings.StoreScope.CheckAll")</span> 
+					<span class="hint">(@(T("Admin.Configuration.Settings.StoreScope.CheckAll.Hint")))</span>
+				</label>
+			</td>
+		</tr>
+	}
+	</table>
+</div>
+
+<script>
+	$(function () {
+		$('#store-scope-configuration').selectWrapper();
+	});
+</script>

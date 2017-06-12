@@ -1,0 +1,12 @@
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\DelegatesSolution\DelegatesSolution\bin\Debug\DelegatesSolution.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\DelegatesSolution\DelegatesSolution\obj\Debug\DelegatesSolution.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\DelegatesSolution\DelegatesSolution\bin\Debug\DelegatesSolution.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\DelegatesSolution\DelegatesSolution\bin\Debug\DelegatesSolution.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\DelegatesSolution\DelegatesSolution\obj\Debug\DelegatesSolution.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\DelegatesSolution\DelegatesSolution\obj\Debug\DelegatesSolution.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\Delegates\DelegatesSolution\DelegatesSolution\bin\Debug\DelegatesSolution.exe.config
+C:\Users\Joe Marini\Desktop\Exercise Files\Delegates\DelegatesSolution\DelegatesSolution\obj\Debug\DelegatesSolution.exe
+C:\Users\Joe Marini\Desktop\Exercise Files\Delegates\DelegatesSolution\DelegatesSolution\obj\Debug\DelegatesSolution.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\Delegates\DelegatesSolution\DelegatesSolution\obj\Debug\DelegatesSolution.csprojResolveAssemblyReference.cache
+C:\Users\Joe Marini\Desktop\Exercise Files\Delegates\DelegatesSolution\DelegatesSolution\bin\Debug\DelegatesSolution.exe
+C:\Users\Joe Marini\Desktop\Exercise Files\Delegates\DelegatesSolution\DelegatesSolution\bin\Debug\DelegatesSolution.pdb

@@ -1,0 +1,5 @@
+B:\cygwin\home\Phin\Ex_Files_Csharp_TestDriven\Exercise Files\Ch04\04_01\Start\Polymorphism\PolymorphismTestProject\bin\Debug\netcoreapp1.1\PolymorphismTestProject.deps.json
+B:\cygwin\home\Phin\Ex_Files_Csharp_TestDriven\Exercise Files\Ch04\04_01\Start\Polymorphism\PolymorphismTestProject\bin\Debug\netcoreapp1.1\PolymorphismTestProject.runtimeconfig.json
+B:\cygwin\home\Phin\Ex_Files_Csharp_TestDriven\Exercise Files\Ch04\04_01\Start\Polymorphism\PolymorphismTestProject\bin\Debug\netcoreapp1.1\PolymorphismTestProject.runtimeconfig.dev.json
+B:\cygwin\home\Phin\Ex_Files_Csharp_TestDriven\Exercise Files\Ch04\04_01\Start\Polymorphism\PolymorphismTestProject\obj\Debug\netcoreapp1.1\PolymorphismTestProject.csprojResolveAssemblyReference.cache
+B:\cygwin\home\Phin\Ex_Files_Csharp_TestDriven\Exercise Files\Ch04\04_01\Start\Polymorphism\PolymorphismTestProject\obj\Debug\netcoreapp1.1\PolymorphismTestProject.AssemblyInfo.cs

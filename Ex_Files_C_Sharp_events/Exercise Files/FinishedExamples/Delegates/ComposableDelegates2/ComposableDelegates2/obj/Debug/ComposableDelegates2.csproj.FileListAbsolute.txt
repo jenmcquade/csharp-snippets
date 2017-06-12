@@ -1,0 +1,9 @@
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\ComposableDelegates2\ComposableDelegates2\bin\Debug\ComposableDelegates2.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\ComposableDelegates2\ComposableDelegates2\bin\Debug\ComposableDelegates2.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\ComposableDelegates2\ComposableDelegates2\bin\Debug\ComposableDelegates2.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\ComposableDelegates2\ComposableDelegates2\obj\Debug\ComposableDelegates2.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\ComposableDelegates2\ComposableDelegates2\obj\Debug\ComposableDelegates2.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\ComposableDelegates2\ComposableDelegates2\obj\Debug\ComposableDelegates2.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Delegates\ComposableDelegates2\ComposableDelegates2\bin\Debug\ComposableDelegates2.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Delegates\ComposableDelegates2\ComposableDelegates2\obj\Debug\ComposableDelegates2.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Delegates\ComposableDelegates2\ComposableDelegates2\obj\Debug\ComposableDelegates2.pdb

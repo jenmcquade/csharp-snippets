@@ -1,0 +1,177 @@
+﻿@model WishlistModel
+@using SmartStore.Web.Models.ShoppingCart;
+@{
+    Layout = "_Layout";
+    Html.AddTitleParts(T("PageTitle.Wishlist").Text);
+    Html.AddBodyCssClass("no-offcanvas-cart");
+}
+
+<div class="page wishlist-page">
+    <div class="page-title">
+        <h1>@(Model.IsEditable ? T("Wishlist") : T("Wishlist.WishlistOf", Model.CustomerFullname))</h1>
+    </div>
+    <div class="page-body">
+        <div class="wishlist-content">
+            
+            @{ Html.RenderWidget("wishlist_items_top"); }
+
+            @if (Model.Items.Count > 0)
+            {
+                if (Model.Warnings.Count > 0)
+                {
+                    <div class="alert alert-danger">
+                        @for (int i = 0; i < Model.Warnings.Count; i++)
+                        {
+                            <p>@Model.Warnings[i]</p>
+                        }
+                    </div>
+                }
+
+                using (Html.BeginRouteForm("Wishlist", FormMethod.Post))
+                {
+                    <div class="card mb-4">
+                        <div id="cart-items" class="cart cart-editable mb-0">
+                            <div class="cart-head">
+                                <div class="cart-row">
+                                    <div class="cart-col cart-col-main">
+                                        @T("ShoppingCart.Product(s)")
+                                    </div>
+                                    <div class="cart-col cart-col-price">
+                                        @T("ShoppingCart.UnitPrice")
+                                    </div>
+                                    <div class="cart-col cart-col-qty">
+                                        @T("ShoppingCart.Quantity")
+                                    </div>
+                                    <div class="cart-col cart-col-price cart-col-subtotal">
+                                        @T("ShoppingCart.ItemTotal")
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="cart-body">
+                                @{ Html.RenderPartial("WishlistItems", Model); }
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="common-buttons clearfix">
+                        @if (Model.IsEditable && Model.EmailWishlistEnabled)
+                        {
+                            <a class="btn btn-secondary email-a-friend-wishlist-button" href="@Url.Action("EmailWishlist")" rel="nofollow">
+                                <i class="fa fa-envelope"></i>
+                                <span>@T("Wishlist.EmailAFriend")</span>
+                            </a>
+                        }
+                        @if (Model.DisplayAddToCart && !Model.IsEditable)
+                        {
+                            <button type="submit" name="addtocartbutton" value="addtocartbutton" class="btn btn-primary float-right wishlist-add-to-cart-button">
+                                <i class="fa fa-cart-arrow-down"></i>
+                                <span>@T("ShoppingCart.AddToCart")</span>
+                            </button>
+                        }						
+                    </div>
+                }
+            }
+            else
+            {
+				<div class="alert alert-warning fade show">
+					@T("Wishlist.CartIsEmpty")
+				</div>
+            }
+        </div>
+
+        @if (Model.IsEditable && Model.Items.Count > 0)
+        {
+            <div class="share-info my-5">
+                <h4 class="share-label">
+					<i class="fa fa-share-square-o"></i>
+                    @T("Wishlist.YourWishlistURL")
+                </h4>
+                <a href="@Url.RouteUrl("Wishlist", new { customerGuid = Model.CustomerGuid })" class="share-link">
+                    @Url.RouteUrl("Wishlist", new { customerGuid = Model.CustomerGuid }, "http")
+                </a>
+            </div>
+        }
+    </div>
+</div>
+
+@if (Model.IsEditable)
+{
+    <script type="text/javascript">
+
+        var orderSummary = $(".wishlist-content");
+
+        // remove cart item & move to wishlist
+        orderSummary.on("click", ".ajax-action-link", function (e) {
+            e.preventDefault();
+            var link = $(this);
+            updateShoppingCartItems(link, link.data);
+            return false;
+        });
+
+        // quantity touchspin change
+        orderSummary.on('change', '.qty-input .form-control', function (e) {
+            e.preventDefault();
+            var link = $(this);
+            updateShoppingCartItems(link, { "sciItemId": link.data("sci-id"), "newQuantity": link.val(), "isCartPage": true, "isWishlist": true });
+            return false;
+        });
+
+        function updateShoppingCartItems(link, data) {
+
+            showThrobber();
+
+            $.ajax({
+                cache: false,
+                url: link.data("href"),
+                data: data,
+                type: 'POST',
+                success: function (response) {
+
+                    if (response.cartItemCount == 0) {
+                        orderSummary.html('<div class="alert alert-warning fade show">@T("Wishlist.CartIsEmpty")</div>');
+                        $(".share-info").hide();
+                    }
+
+                    var cartBody = $(".cart-body");
+                    var totals = $("#order-totals");
+
+                    if (response.success) {
+                        // replace html
+                        cartBody.html(response.cartHtml);
+                        totals.html(response.totalsHtml);
+                    }
+
+                    displayNotification(response.message, response.success ? "success" : "error");
+
+                    // reinit qty ctls
+                    applyCommonPlugins(cartBody);
+
+                    // update shopbar
+                    ShopBar.loadSummary("wishlist", true);
+                    
+                    if (link.data("type") == "cart") {
+                        ShopBar.loadSummary("cart", true);
+                    }
+
+                    hideThrobber();
+                }
+            });
+        }
+
+        function showThrobber() {
+            var cnt = $("#cart-items");
+            var throbber = cnt.data('throbber');
+            if (!throbber) {
+                throbber = cnt.throbber({ white: true, small: true, message: '', show: false, speed: 0 }).data('throbber');
+            }
+
+            throbber.show();
+        }
+
+        function hideThrobber() {
+            var cnt = $("#cart-items");
+            _.delay(function () { cnt.data("throbber").hide(); }, 100);
+        }
+
+    </script>
+}

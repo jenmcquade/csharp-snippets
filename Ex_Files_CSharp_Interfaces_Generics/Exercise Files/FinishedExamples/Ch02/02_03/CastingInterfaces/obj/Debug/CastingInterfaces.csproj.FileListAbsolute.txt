@@ -1,0 +1,8 @@
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces\CastingInterfaces\CastingInterfaces\bin\Debug\CastingInterfaces.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces\CastingInterfaces\CastingInterfaces\bin\Debug\CastingInterfaces.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces\CastingInterfaces\CastingInterfaces\bin\Debug\CastingInterfaces.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces\CastingInterfaces\CastingInterfaces\obj\Debug\CastingInterfaces.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces\CastingInterfaces\CastingInterfaces\obj\Debug\CastingInterfaces.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Interfaces\CastingInterfaces\CastingInterfaces\bin\Debug\CastingInterfaces.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Interfaces\CastingInterfaces\CastingInterfaces\obj\Debug\CastingInterfaces.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Interfaces\CastingInterfaces\CastingInterfaces\obj\Debug\CastingInterfaces.pdb

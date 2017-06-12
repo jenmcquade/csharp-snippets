@@ -1,0 +1,9 @@
+B:\cygwin\home\Phin\Lessons\Ex_Files_CSharp_Design_Patterns\Ch04\04_02\Start\Singleton.Tests\obj\Debug\Singleton.Tests.csprojResolveAssemblyReference.cache
+B:\cygwin\home\Phin\Lessons\Ex_Files_CSharp_Design_Patterns\Ch04\04_02\Start\Singleton.Tests\bin\Debug\Singleton.Tests.dll
+B:\cygwin\home\Phin\Lessons\Ex_Files_CSharp_Design_Patterns\Ch04\04_02\Start\Singleton.Tests\bin\Debug\Singleton.Tests.pdb
+B:\cygwin\home\Phin\Lessons\Ex_Files_CSharp_Design_Patterns\Ch04\04_02\Start\Singleton.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+B:\cygwin\home\Phin\Lessons\Ex_Files_CSharp_Design_Patterns\Ch04\04_02\Start\Singleton.Tests\bin\Debug\Singleton.exe
+B:\cygwin\home\Phin\Lessons\Ex_Files_CSharp_Design_Patterns\Ch04\04_02\Start\Singleton.Tests\bin\Debug\Singleton.pdb
+B:\cygwin\home\Phin\Lessons\Ex_Files_CSharp_Design_Patterns\Ch04\04_02\Start\Singleton.Tests\bin\Debug\Singleton.exe.config
+B:\cygwin\home\Phin\Lessons\Ex_Files_CSharp_Design_Patterns\Ch04\04_02\Start\Singleton.Tests\obj\Debug\Singleton.Tests.dll
+B:\cygwin\home\Phin\Lessons\Ex_Files_CSharp_Design_Patterns\Ch04\04_02\Start\Singleton.Tests\obj\Debug\Singleton.Tests.pdb

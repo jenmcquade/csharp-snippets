@@ -1,0 +1,10 @@
+﻿<Window x:Class="VisualProperties.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="btnClickMe" Content="Click Me" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="156" FontSize="24" Click="btnClickMe_Click"/>
+        <TextBlock x:Name="txtOutput" HorizontalAlignment="Left" Margin="10,73,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" FontSize="24"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,12 @@
+C:\Users\david\Desktop\C# EssT Ex Files\03_Fundamentals\HelloConsole\HelloConsole\bin\Debug\HelloConsole.exe.config
+C:\Users\david\Desktop\C# EssT Ex Files\03_Fundamentals\HelloConsole\HelloConsole\bin\Debug\HelloConsole.exe
+C:\Users\david\Desktop\C# EssT Ex Files\03_Fundamentals\HelloConsole\HelloConsole\bin\Debug\HelloConsole.pdb
+C:\Users\david\Desktop\C# EssT Ex Files\03_Fundamentals\HelloConsole\HelloConsole\obj\Debug\HelloConsole.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\C# EssT Ex Files\03_Fundamentals\HelloConsole\HelloConsole\obj\Debug\HelloConsole.exe
+C:\Users\david\Desktop\C# EssT Ex Files\03_Fundamentals\HelloConsole\HelloConsole\obj\Debug\HelloConsole.pdb
+C:\Users\David\Desktop\Exercise Files\03_Fundamentals\HelloConsole\HelloConsole\bin\Debug\HelloConsole.exe.config
+C:\Users\David\Desktop\Exercise Files\03_Fundamentals\HelloConsole\HelloConsole\obj\Debug\HelloConsole.exe
+C:\Users\David\Desktop\Exercise Files\03_Fundamentals\HelloConsole\HelloConsole\obj\Debug\HelloConsole.pdb
+C:\Users\David\Desktop\Exercise Files\03_Fundamentals\HelloConsole\HelloConsole\bin\Debug\HelloConsole.exe
+C:\Users\David\Desktop\Exercise Files\03_Fundamentals\HelloConsole\HelloConsole\bin\Debug\HelloConsole.pdb
+C:\Users\David\Desktop\Exercise Files\03_Fundamentals\HelloConsole\HelloConsole\obj\Debug\HelloConsole.csprojResolveAssemblyReference.cache

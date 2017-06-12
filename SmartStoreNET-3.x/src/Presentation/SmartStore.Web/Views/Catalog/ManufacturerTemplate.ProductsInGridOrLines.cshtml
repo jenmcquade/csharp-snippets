@@ -1,0 +1,93 @@
+﻿@using SmartStore.Core.Domain.Seo;
+@using SmartStore.Core.Infrastructure;
+@using SmartStore.Web.Models.Catalog;
+@using SmartStore.Web.Framework.UI;
+
+@model ManufacturerModel
+@{
+	Html.AddTitleParts(!String.IsNullOrEmpty(Model.MetaTitle) ? Model.MetaTitle : Model.Name);
+	Html.AddMetaDescriptionParts(Model.MetaDescription);
+	Html.AddMetaKeywordParts(Model.MetaKeywords);
+
+	var canonicalUrlsEnabled = EngineContext.Current.Resolve<SeoSettings>().CanonicalUrlsEnabled;
+	if (canonicalUrlsEnabled)
+	{
+		var manufacturerUrl = Url.RouteUrl("Manufacturer", new { SeName = Model.SeName }, this.Request.Url.Scheme);
+		Html.AddCanonicalUrlParts(manufacturerUrl);
+	}
+
+	int firstItemIndex = 0;
+	int lastItemIndex = 0;
+	if (Model.SearchResult.TotalHitsCount > 0)
+	{
+		firstItemIndex = Model.SearchResult.Hits.FirstItemIndex;
+		lastItemIndex = Model.SearchResult.Hits.LastItemIndex;
+	}
+
+	Layout = "_Layout";
+
+	ViewBag.HideLeftCol = true; // ...on mobile
+}
+
+@if (Model.SearchResult.Facets.Count > 0)
+{
+	@section left {
+		@{
+			Html.RenderAction("Filters", "Search", new { model = Model });
+		}
+	}
+}
+
+<div class="page manufacturer-page">
+    <div class="page-title">
+        <h1 class="h3">@Model.Name</h1>
+		@if (Model.SearchResult.TotalHitsCount > 0)
+		{
+			<h5 class="search-hitcount">@T("Search.PagingInfo", "{0}-{1}".FormatInvariant(firstItemIndex.ToString("N0"), lastItemIndex.ToString("N0")), Model.SearchResult.TotalHitsCount.ToString("N0"))</h5>
+		}
+    </div>
+
+    <div class="page-body">
+        @{ Html.RenderWidget("manufacturerdetails_top"); }
+        
+		@* Description *@
+        @if (!String.IsNullOrWhiteSpace(Model.Description))
+        {
+            <div class="manufacturer-description lead">
+                @Html.Raw(Html.CollapsedText(Model.Description))
+            </div>
+        }
+
+		@* Featured products *@
+        @if (Model.FeaturedProducts != null && Model.FeaturedProducts.Items.Count > 0)
+		{
+			Html.RenderWidget("manufacturerdetails_before_featured_products");
+
+			<div class="product-grid featured-product-grid block">
+				<div class="heading heading-center">
+					<h3 class="heading-title fs-h1">@T("Products.FeaturedProducts")</h3>
+				</div>
+				<div class="block-body pt-3 artlist-no-separators">
+					@{
+						Html.RenderPartial("Product.List", Model.FeaturedProducts);
+					}
+				</div>
+			</div>
+		}
+
+		@* Product list *@
+		@{ Html.RenderWidget("categorydetails_before_product_list"); }
+
+		<div class="product-list-container">
+			@if (Model.Products != null)
+            {
+                Html.RenderPartial("Product.List", Model.Products);
+            }
+		</div>
+
+		@* TODO: (mc) find more intelligent way of rendering RecentlyViewedProductsBlock globally *@
+		@{ Html.RenderAction("RecentlyViewedProductsBlock", "Catalog", new { area = "" }); }
+
+        @{ Html.RenderWidget("manufacturerdetails_bottom"); }
+    </div>
+</div>

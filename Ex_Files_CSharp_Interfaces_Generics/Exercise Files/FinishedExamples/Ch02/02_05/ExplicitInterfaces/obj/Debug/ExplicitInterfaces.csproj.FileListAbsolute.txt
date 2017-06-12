@@ -1,0 +1,6 @@
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Interfaces\ExplicitInterfaces\ExplicitInterfaces\bin\Debug\ExplicitInterfaces.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Interfaces\ExplicitInterfaces\ExplicitInterfaces\bin\Debug\ExplicitInterfaces.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Interfaces\ExplicitInterfaces\ExplicitInterfaces\bin\Debug\ExplicitInterfaces.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Interfaces\ExplicitInterfaces\ExplicitInterfaces\obj\Debug\ExplicitInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Interfaces\ExplicitInterfaces\ExplicitInterfaces\obj\Debug\ExplicitInterfaces.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Interfaces\ExplicitInterfaces\ExplicitInterfaces\obj\Debug\ExplicitInterfaces.pdb

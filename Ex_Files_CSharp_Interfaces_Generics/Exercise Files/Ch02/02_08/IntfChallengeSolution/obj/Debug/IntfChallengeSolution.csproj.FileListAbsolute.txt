@@ -1,0 +1,18 @@
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Interfaces\IntfChallengeSolution\IntfChallengeSolution\bin\Debug\IntfChallengeSolution.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Interfaces\IntfChallengeSolution\IntfChallengeSolution\bin\Debug\IntfChallengeSolution.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Interfaces\IntfChallengeSolution\IntfChallengeSolution\bin\Debug\IntfChallengeSolution.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Interfaces\IntfChallengeSolution\IntfChallengeSolution\obj\Debug\IntfChallengeSolution.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Interfaces\IntfChallengeSolution\IntfChallengeSolution\obj\Debug\IntfChallengeSolution.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Interfaces\IntfChallengeSolution\IntfChallengeSolution\obj\Debug\IntfChallengeSolution.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\Ch02\02_08\IntfChallengeSolution\bin\Debug\IntfChallengeSolution.exe.config
+C:\Users\Joe Marini\Desktop\Exercise Files\Ch02\02_08\IntfChallengeSolution\obj\Debug\IntfChallengeSolution.exe
+C:\Users\Joe Marini\Desktop\Exercise Files\Ch02\02_08\IntfChallengeSolution\obj\Debug\IntfChallengeSolution.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\Ch02\02_08\IntfChallengeSolution\bin\Debug\IntfChallengeSolution.exe
+C:\Users\Joe Marini\Desktop\Exercise Files\Ch02\02_08\IntfChallengeSolution\bin\Debug\IntfChallengeSolution.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\Ch02\02_08\IntfChallengeSolution\obj\Debug\IntfChallengeSolution.csprojResolveAssemblyReference.cache
+B:\cygwin\home\Phin\Lessons\Ex_Files_CSharp_Interfaces_Generics\Exercise Files\Ch02\02_08\IntfChallengeSolution\bin\Debug\IntfChallengeSolution.exe.config
+B:\cygwin\home\Phin\Lessons\Ex_Files_CSharp_Interfaces_Generics\Exercise Files\Ch02\02_08\IntfChallengeSolution\bin\Debug\IntfChallengeSolution.exe
+B:\cygwin\home\Phin\Lessons\Ex_Files_CSharp_Interfaces_Generics\Exercise Files\Ch02\02_08\IntfChallengeSolution\bin\Debug\IntfChallengeSolution.pdb
+B:\cygwin\home\Phin\Lessons\Ex_Files_CSharp_Interfaces_Generics\Exercise Files\Ch02\02_08\IntfChallengeSolution\obj\Debug\IntfChallengeSolution.csprojResolveAssemblyReference.cache
+B:\cygwin\home\Phin\Lessons\Ex_Files_CSharp_Interfaces_Generics\Exercise Files\Ch02\02_08\IntfChallengeSolution\obj\Debug\IntfChallengeSolution.exe
+B:\cygwin\home\Phin\Lessons\Ex_Files_CSharp_Interfaces_Generics\Exercise Files\Ch02\02_08\IntfChallengeSolution\obj\Debug\IntfChallengeSolution.pdb

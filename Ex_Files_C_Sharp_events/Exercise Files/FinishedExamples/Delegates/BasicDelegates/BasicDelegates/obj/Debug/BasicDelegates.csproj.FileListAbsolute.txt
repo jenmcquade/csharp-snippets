@@ -1,0 +1,6 @@
+c:\users\joe\documents\visual studio 2013\Projects\BasicDelegates\BasicDelegates\bin\Debug\BasicDelegates.exe.config
+c:\users\joe\documents\visual studio 2013\Projects\BasicDelegates\BasicDelegates\bin\Debug\BasicDelegates.exe
+c:\users\joe\documents\visual studio 2013\Projects\BasicDelegates\BasicDelegates\bin\Debug\BasicDelegates.pdb
+c:\users\joe\documents\visual studio 2013\Projects\BasicDelegates\BasicDelegates\obj\Debug\BasicDelegates.csprojResolveAssemblyReference.cache
+c:\users\joe\documents\visual studio 2013\Projects\BasicDelegates\BasicDelegates\obj\Debug\BasicDelegates.exe
+c:\users\joe\documents\visual studio 2013\Projects\BasicDelegates\BasicDelegates\obj\Debug\BasicDelegates.pdb

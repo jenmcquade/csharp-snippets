@@ -1,0 +1,14 @@
+﻿
+<select 
+    name="CustomerRole" 
+    id="CustomerRole" 
+	class="autowidth"
+    data-placeholder='@T("Admin.Catalog.Products.TierPrices.Fields.CustomerRole.AllRoles")'
+    data-select-url='@Url.Action("AllCustomerRoles", "Customer")'>
+</select>
+
+<script>
+    $(function () {
+        $('#CustomerRole').selectWrapper();
+    });
+</script>

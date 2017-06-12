@@ -1,0 +1,9 @@
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces\NETInterfaces\NETInterfaces\bin\Debug\NETInterfaces.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces\NETInterfaces\NETInterfaces\obj\Debug\NETInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces\NETInterfaces\NETInterfaces\bin\Debug\NETInterfaces.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces\NETInterfaces\NETInterfaces\bin\Debug\NETInterfaces.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces\NETInterfaces\NETInterfaces\obj\Debug\NETInterfaces.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces\NETInterfaces\NETInterfaces\obj\Debug\NETInterfaces.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Interfaces\NETInterfaces\NETInterfaces\bin\Debug\NETInterfaces.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Interfaces\NETInterfaces\NETInterfaces\obj\Debug\NETInterfaces.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Interfaces\NETInterfaces\NETInterfaces\obj\Debug\NETInterfaces.pdb

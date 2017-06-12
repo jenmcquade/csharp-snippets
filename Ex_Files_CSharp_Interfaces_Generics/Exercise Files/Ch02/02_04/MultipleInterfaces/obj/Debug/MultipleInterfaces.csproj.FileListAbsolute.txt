@@ -1,0 +1,15 @@
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces\MultipleInterfaces\MultipleInterfaces\bin\Debug\MultipleInterfaces.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces\MultipleInterfaces\MultipleInterfaces\bin\Debug\MultipleInterfaces.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces\MultipleInterfaces\MultipleInterfaces\bin\Debug\MultipleInterfaces.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces\MultipleInterfaces\MultipleInterfaces\obj\Debug\MultipleInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces\MultipleInterfaces\MultipleInterfaces\obj\Debug\MultipleInterfaces.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces\MultipleInterfaces\MultipleInterfaces\obj\Debug\MultipleInterfaces.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Interfaces\MultipleInterfaces\MultipleInterfaces\bin\Debug\MultipleInterfaces.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Interfaces\MultipleInterfaces\MultipleInterfaces\obj\Debug\MultipleInterfaces.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Interfaces\MultipleInterfaces\MultipleInterfaces\obj\Debug\MultipleInterfaces.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\Ch02\02_04\MultipleInterfaces\bin\Debug\MultipleInterfaces.exe.config
+C:\Users\Joe Marini\Desktop\Exercise Files\Ch02\02_04\MultipleInterfaces\obj\Debug\MultipleInterfaces.exe
+C:\Users\Joe Marini\Desktop\Exercise Files\Ch02\02_04\MultipleInterfaces\obj\Debug\MultipleInterfaces.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\Ch02\02_04\MultipleInterfaces\bin\Debug\MultipleInterfaces.exe
+C:\Users\Joe Marini\Desktop\Exercise Files\Ch02\02_04\MultipleInterfaces\bin\Debug\MultipleInterfaces.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\Ch02\02_04\MultipleInterfaces\obj\Debug\MultipleInterfaces.csprojResolveAssemblyReference.cache

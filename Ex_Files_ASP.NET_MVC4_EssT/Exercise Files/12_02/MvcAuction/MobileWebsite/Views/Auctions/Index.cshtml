@@ -1,0 +1,43 @@
+﻿@model IEnumerable<MvcAuction.Models.Auction>
+
+@{
+    ViewBag.Title = "Auctions";
+}
+
+<table data-role="table" class="ui-body-d ui-shadow table-stripe" style="width: 100%">
+    <thead>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th style="width:5em">
+            Price
+        </th>
+        <th style="width:10em">
+            Ends
+        </th>
+    </tr>
+    </thead>
+    
+    <tbody>
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.ActionLink(item.Title ?? " ", "Details", new { id=item.Id }, new { title = item.Description })
+        </td>
+        <td>
+            @item.CurrentPrice.GetValueOrDefault(item.StartPrice).ToString("C")
+        </td>
+        <td>
+            @item.EndTime.ToString("MMM d h:MM tt")
+        </td>
+    </tr>
+}
+    </tbody>
+
+</table>
+
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>

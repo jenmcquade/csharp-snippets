@@ -1,0 +1,6 @@
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Interfaces\IntfChallengeSolution\IntfChallengeSolution\bin\Debug\IntfChallengeSolution.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Interfaces\IntfChallengeSolution\IntfChallengeSolution\bin\Debug\IntfChallengeSolution.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Interfaces\IntfChallengeSolution\IntfChallengeSolution\bin\Debug\IntfChallengeSolution.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Interfaces\IntfChallengeSolution\IntfChallengeSolution\obj\Debug\IntfChallengeSolution.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Interfaces\IntfChallengeSolution\IntfChallengeSolution\obj\Debug\IntfChallengeSolution.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Interfaces\IntfChallengeSolution\IntfChallengeSolution\obj\Debug\IntfChallengeSolution.pdb

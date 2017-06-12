@@ -1,0 +1,1 @@
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\SalaryCalculatorTestProject\SalaryCalculatorTestProject\obj\Debug\SalaryCalculatorTestProject.csprojResolveAssemblyReference.cache

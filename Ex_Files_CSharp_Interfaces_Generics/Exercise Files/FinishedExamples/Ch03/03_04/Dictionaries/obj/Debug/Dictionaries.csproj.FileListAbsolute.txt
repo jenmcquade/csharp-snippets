@@ -1,0 +1,7 @@
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Generics\Dictionaries\Dictionaries\bin\Debug\Dictionaries.exe.config
+C:\Users\Joe\Desktop\Exercise Files\FinishedExamples\Ch03\03_04\Dictionaries\bin\Debug\Dictionaries.exe.config
+C:\Users\Joe\Desktop\Exercise Files\FinishedExamples\Ch03\03_04\Dictionaries\bin\Debug\Dictionaries.exe
+C:\Users\Joe\Desktop\Exercise Files\FinishedExamples\Ch03\03_04\Dictionaries\bin\Debug\Dictionaries.pdb
+C:\Users\Joe\Desktop\Exercise Files\FinishedExamples\Ch03\03_04\Dictionaries\obj\Debug\Dictionaries.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Desktop\Exercise Files\FinishedExamples\Ch03\03_04\Dictionaries\obj\Debug\Dictionaries.exe
+C:\Users\Joe\Desktop\Exercise Files\FinishedExamples\Ch03\03_04\Dictionaries\obj\Debug\Dictionaries.pdb

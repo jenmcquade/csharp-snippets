@@ -1,0 +1,15 @@
+﻿@model IEnumerable<MvcAuction.Models.Auction>
+
+@{
+    ViewBag.Title = "Auctions";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+@foreach (var item in Model) {
+    @Html.Partial("_AuctionTile", item)
+}

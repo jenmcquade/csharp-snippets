@@ -1,0 +1,15 @@
+C:\Users\david\Desktop\C# EssT Ex Files\05_Flow\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\david\Desktop\C# EssT Ex Files\05_Flow\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\C# EssT Ex Files\05_Flow\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\david\Desktop\C# EssT Ex Files\05_Flow\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\david\Desktop\C# EssT Ex Files\05_Flow\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\david\Desktop\C# EssT Ex Files\05_Flow\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+C:\Users\David\Courses\CSharpEssT\Exercise Files\05_Flow\SimpleCalculatorStart\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\David\Courses\CSharpEssT\Exercise Files\05_Flow\SimpleCalculatorStart\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\David\Courses\CSharpEssT\Exercise Files\05_Flow\SimpleCalculatorStart\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+C:\Users\David\Desktop\Exercise Files\05_Flow\SimpleCalculatorSolution\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\David\Desktop\Exercise Files\05_Flow\SimpleCalculatorSolution\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\David\Desktop\Exercise Files\05_Flow\SimpleCalculatorSolution\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+C:\Users\David\Desktop\Exercise Files\05_Flow\SimpleCalculatorSolution\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Exercise Files\05_Flow\SimpleCalculatorSolution\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\David\Desktop\Exercise Files\05_Flow\SimpleCalculatorSolution\SimpleCalculator\bin\Debug\SimpleCalculator.pdb

@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+    Layout = "~/Views/Shared/_ReactLayout.cshtml";
+}
+<h3>
+    This is an ASP.NET MVC5 web site using <a href="http://facebook.github.io/react/">React</a> code which was built by
+    <a href="http://webpack.github.io/docs/">WebPack</a>
+    with <a href="https://babeljs.io/">Babel js</a> doing the transpiling.
+</h3>
+<p>
+    This application was downloaded from <a href="https://github.com/pro-react/kanban-app/tree/chapter6">Pro React GitHub, Chapter 6</a>
+    with a small change to the file <a href="https://github.com/JonPSmith/AspNetReactSamples/blob/master/ReactWebPack.MVC5/app/api/KanbanApi.js">KanBanApi.js</a>
+    to get data from this MVC application.
+    <br/>
+    Note: this React application uses <a href="https://facebook.github.io/flux/">Flux</a> store,
+    while the <a href="https://github.com/JonPSmith/AspNetReactSamples/tree/master/ReactWebPack.CoreRC2">ReactWebPack.CoreRC2</a>
+    uses the <a href="http://redux.js.org/">Redux</a>.
+</p>
+<hr />
+
+<div id='root'>
+</div>
+
+@section scripts{
+    <script src="~/js/vendor.js"></script>
+    <script type="text/javascript">
+        self._babelPolyfill = false;    //HACK: see http://stackoverflow.com/a/36672020/1434764
+    </script>
+    <script src="~/js/main.js"></script>
+}

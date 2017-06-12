@@ -1,0 +1,24 @@
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Generics\GenericList\GenericList\bin\Debug\GenericList.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Generics\GenericList\GenericList\bin\Debug\GenericList.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Generics\GenericList\GenericList\bin\Debug\GenericList.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Generics\GenericList\GenericList\obj\Debug\GenericList.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Generics\GenericList\GenericList\obj\Debug\GenericList.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Generics\GenericList\GenericList\obj\Debug\GenericList.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Generics\GenericList\GenericList\bin\Debug\GenericList.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Generics\GenericList\GenericList\obj\Debug\GenericList.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Generics\GenericList\GenericList\obj\Debug\GenericList.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Generics\GenericList\GenericList\bin\Debug\GenericList.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Generics\GenericList\GenericList\bin\Debug\GenericList.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Generics\GenericList\GenericList\obj\Debug\GenericList.csprojResolveAssemblyReference.cache
+C:\Users\Joe Marini\Desktop\Exercise Files\Ch03\03_02\GenericList\bin\Debug\GenericList.exe.config
+C:\Users\Joe Marini\Desktop\Exercise Files\Ch03\03_02\GenericList\obj\Debug\GenericList.exe
+C:\Users\Joe Marini\Desktop\Exercise Files\Ch03\03_02\GenericList\obj\Debug\GenericList.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\Ch03\03_02\GenericList\bin\Debug\GenericList.exe
+C:\Users\Joe Marini\Desktop\Exercise Files\Ch03\03_02\GenericList\bin\Debug\GenericList.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\Ch03\03_02\GenericList\obj\Debug\GenericList.csprojResolveAssemblyReference.cache
+B:\cygwin\home\Phin\Lessons\Ex_Files_CSharp_Interfaces_Generics\Exercise Files\Ch03\03_02\GenericList\bin\Debug\GenericList.exe.config
+B:\cygwin\home\Phin\Lessons\Ex_Files_CSharp_Interfaces_Generics\Exercise Files\Ch03\03_02\GenericList\bin\Debug\GenericList.exe
+B:\cygwin\home\Phin\Lessons\Ex_Files_CSharp_Interfaces_Generics\Exercise Files\Ch03\03_02\GenericList\bin\Debug\GenericList.pdb
+B:\cygwin\home\Phin\Lessons\Ex_Files_CSharp_Interfaces_Generics\Exercise Files\Ch03\03_02\GenericList\obj\Debug\GenericList.csprojResolveAssemblyReference.cache
+B:\cygwin\home\Phin\Lessons\Ex_Files_CSharp_Interfaces_Generics\Exercise Files\Ch03\03_02\GenericList\obj\Debug\GenericList.exe
+B:\cygwin\home\Phin\Lessons\Ex_Files_CSharp_Interfaces_Generics\Exercise Files\Ch03\03_02\GenericList\obj\Debug\GenericList.pdb

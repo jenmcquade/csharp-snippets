@@ -1,0 +1,56 @@
+C:\Users\David\Desktop\C# EssT Ex Files\02_GettingStarted\CodeRunner\CodeRunner\bin\Debug\CodeRunner.exe.config
+C:\Users\David\Desktop\C# EssT Ex Files\02_GettingStarted\CodeRunner\CodeRunner\obj\Debug\CodeRunner.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# EssT Ex Files\02_GettingStarted\CodeRunner\CodeRunner\obj\Debug\MainWindow.baml
+C:\Users\David\Desktop\C# EssT Ex Files\02_GettingStarted\CodeRunner\CodeRunner\obj\Debug\MainWindow.g.cs
+C:\Users\David\Desktop\C# EssT Ex Files\02_GettingStarted\CodeRunner\CodeRunner\obj\Debug\App.g.cs
+C:\Users\David\Desktop\C# EssT Ex Files\02_GettingStarted\CodeRunner\CodeRunner\obj\Debug\CodeRunner_MarkupCompile.cache
+C:\Users\David\Desktop\C# EssT Ex Files\02_GettingStarted\CodeRunner\CodeRunner\obj\Debug\CodeRunner.g.resources
+C:\Users\David\Desktop\C# EssT Ex Files\02_GettingStarted\CodeRunner\CodeRunner\obj\Debug\CodeRunner.Properties.Resources.resources
+C:\Users\David\Desktop\C# EssT Ex Files\02_GettingStarted\CodeRunner\CodeRunner\obj\Debug\CodeRunner.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\C# EssT Ex Files\02_GettingStarted\CodeRunner\CodeRunner\bin\Debug\CodeRunner.exe
+C:\Users\David\Desktop\C# EssT Ex Files\02_GettingStarted\CodeRunner\CodeRunner\bin\Debug\CodeRunner.pdb
+C:\Users\David\Desktop\C# EssT Ex Files\02_GettingStarted\CodeRunner\CodeRunner\obj\Debug\CodeRunner.exe
+C:\Users\David\Desktop\C# EssT Ex Files\02_GettingStarted\CodeRunner\CodeRunner\obj\Debug\CodeRunner.pdb
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\CodeRunner\CodeRunner\bin\Debug\CodeRunner.exe.config
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\CodeRunner\CodeRunner\obj\Debug\CodeRunner.exe
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\CodeRunner\CodeRunner\obj\Debug\CodeRunner.pdb
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\CodeRunner\CodeRunner\bin\Debug\CodeRunner.exe
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\CodeRunner\CodeRunner\bin\Debug\CodeRunner.pdb
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\CodeRunner\CodeRunner\obj\Debug\CodeRunner.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\CodeRunner\CodeRunner\obj\Debug\MainWindow.baml
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\CodeRunner\CodeRunner\obj\Debug\MainWindow.g.cs
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\CodeRunner\CodeRunner\obj\Debug\App.g.cs
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\CodeRunner\CodeRunner\obj\Debug\CodeRunner_MarkupCompile.cache
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\CodeRunner\CodeRunner\obj\Debug\CodeRunner.g.resources
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\CodeRunner\CodeRunner\obj\Debug\CodeRunner.Properties.Resources.resources
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\CodeRunner\CodeRunner\obj\Debug\CodeRunner.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\Exercise Files\04_Variables\DeclareVariables\CodeRunner\bin\Debug\CodeRunner.exe.config
+C:\Users\David\Desktop\Exercise Files\04_Variables\DeclareVariables\CodeRunner\obj\Debug\CodeRunner.exe
+C:\Users\David\Desktop\Exercise Files\04_Variables\DeclareVariables\CodeRunner\obj\Debug\CodeRunner.pdb
+C:\Users\David\Desktop\Exercise Files\04_Variables\DeclareVariables\CodeRunner\bin\Debug\CodeRunner.exe
+C:\Users\David\Desktop\Exercise Files\04_Variables\DeclareVariables\CodeRunner\bin\Debug\CodeRunner.pdb
+C:\Users\David\Desktop\Exercise Files\04_Variables\DeclareVariables\CodeRunner\obj\Debug\CodeRunner.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Exercise Files\04_Variables\DeclareVariables\CodeRunner\obj\Debug\MainWindow.baml
+C:\Users\David\Desktop\Exercise Files\04_Variables\DeclareVariables\CodeRunner\obj\Debug\MainWindow.g.cs
+C:\Users\David\Desktop\Exercise Files\04_Variables\DeclareVariables\CodeRunner\obj\Debug\App.g.cs
+C:\Users\David\Desktop\Exercise Files\04_Variables\DeclareVariables\CodeRunner\obj\Debug\CodeRunner_MarkupCompile.cache
+C:\Users\David\Desktop\Exercise Files\04_Variables\DeclareVariables\CodeRunner\obj\Debug\CodeRunner.g.resources
+C:\Users\David\Desktop\Exercise Files\04_Variables\DeclareVariables\CodeRunner\obj\Debug\CodeRunner.Properties.Resources.resources
+C:\Users\David\Desktop\Exercise Files\04_Variables\DeclareVariables\CodeRunner\obj\Debug\CodeRunner.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\Exercise Files\04_Variables\MathOperators\CodeRunner\bin\Debug\CodeRunner.exe.config
+C:\Users\David\Desktop\Exercise Files\04_Variables\MathOperators\CodeRunner\obj\Debug\CodeRunner.exe
+C:\Users\David\Desktop\Exercise Files\04_Variables\MathOperators\CodeRunner\obj\Debug\CodeRunner.pdb
+C:\Users\David\Courses\CSharpEssT\Exercise Files\04_Variables\MathOperators\CodeRunner\bin\Debug\CodeRunner.exe.config
+C:\Users\David\Courses\CSharpEssT\Exercise Files\04_Variables\MathOperators\CodeRunner\obj\Debug\CodeRunner.exe
+C:\Users\David\Courses\CSharpEssT\Exercise Files\04_Variables\MathOperators\CodeRunner\obj\Debug\CodeRunner.pdb
+C:\Users\David\Desktop\Exercise Files\04_Variables\MathOperators\CodeRunner\obj\Debug\CodeRunner.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Exercise Files\04_Variables\MathOperators\CodeRunner\obj\Debug\MainWindow.baml
+C:\Users\David\Desktop\Exercise Files\04_Variables\MathOperators\CodeRunner\obj\Debug\MainWindow.g.cs
+C:\Users\David\Desktop\Exercise Files\04_Variables\MathOperators\CodeRunner\obj\Debug\App.g.cs
+C:\Users\David\Desktop\Exercise Files\04_Variables\MathOperators\CodeRunner\obj\Debug\CodeRunner_MarkupCompile.cache
+C:\Users\David\Desktop\Exercise Files\04_Variables\MathOperators\CodeRunner\obj\Debug\CodeRunner.g.resources
+C:\Users\David\Desktop\Exercise Files\04_Variables\MathOperators\CodeRunner\obj\Debug\CodeRunner.Properties.Resources.resources
+C:\Users\David\Desktop\Exercise Files\04_Variables\MathOperators\CodeRunner\obj\Debug\CodeRunner.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\Exercise Files\04_Variables\MathOperators\CodeRunner\bin\Debug\CodeRunner.exe
+C:\Users\David\Desktop\Exercise Files\04_Variables\MathOperators\CodeRunner\bin\Debug\CodeRunner.pdb
+C:\Users\David\Desktop\Exercise Files\04_Variables\ConstsAndEnums\CodeRunner\bin\Debug\CodeRunner.exe.config

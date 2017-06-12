@@ -1,0 +1,6 @@
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Generics\GenChallengeSolution\GenChallengeSolution\bin\Debug\GenChallengeSolution.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Generics\GenChallengeSolution\GenChallengeSolution\bin\Debug\GenChallengeSolution.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Generics\GenChallengeSolution\GenChallengeSolution\bin\Debug\GenChallengeSolution.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Generics\GenChallengeSolution\GenChallengeSolution\obj\Debug\GenChallengeSolution.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Generics\GenChallengeSolution\GenChallengeSolution\obj\Debug\GenChallengeSolution.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Generics\GenChallengeSolution\GenChallengeSolution\obj\Debug\GenChallengeSolution.pdb

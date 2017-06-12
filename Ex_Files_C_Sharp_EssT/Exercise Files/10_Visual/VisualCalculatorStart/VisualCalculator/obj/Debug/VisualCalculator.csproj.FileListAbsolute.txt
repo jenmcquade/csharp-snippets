@@ -1,0 +1,29 @@
+C:\Users\david\Desktop\C# EssT Ex Files\08_Events\VisualCalculator\VisualCalculator\bin\Debug\VisualCalculator.exe.config
+C:\Users\david\Desktop\C# EssT Ex Files\08_Events\VisualCalculator\VisualCalculator\obj\Debug\VisualCalculator.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\C# EssT Ex Files\08_Events\VisualCalculator\VisualCalculator\obj\Debug\App.g.cs
+C:\Users\david\Desktop\C# EssT Ex Files\08_Events\VisualCalculator\VisualCalculator\obj\Debug\VisualCalculator_MarkupCompile.cache
+C:\Users\david\Desktop\C# EssT Ex Files\08_Events\VisualCalculator\VisualCalculator\bin\Debug\VisualCalculator.exe
+C:\Users\david\Desktop\C# EssT Ex Files\08_Events\VisualCalculator\VisualCalculator\bin\Debug\VisualCalculator.pdb
+C:\Users\david\Desktop\C# EssT Ex Files\08_Events\VisualCalculator\VisualCalculator\obj\Debug\MainWindow.baml
+C:\Users\david\Desktop\C# EssT Ex Files\08_Events\VisualCalculator\VisualCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\david\Desktop\C# EssT Ex Files\08_Events\VisualCalculator\VisualCalculator\obj\Debug\VisualCalculator.g.resources
+C:\Users\david\Desktop\C# EssT Ex Files\08_Events\VisualCalculator\VisualCalculator\obj\Debug\VisualCalculator.Properties.Resources.resources
+C:\Users\david\Desktop\C# EssT Ex Files\08_Events\VisualCalculator\VisualCalculator\obj\Debug\VisualCalculator.csproj.GenerateResource.Cache
+C:\Users\david\Desktop\C# EssT Ex Files\08_Events\VisualCalculator\VisualCalculator\obj\Debug\VisualCalculator.exe
+C:\Users\david\Desktop\C# EssT Ex Files\08_Events\VisualCalculator\VisualCalculator\obj\Debug\VisualCalculator.pdb
+C:\Users\David\Desktop\Exercise Files\10_Visual\VisualCalculatorFinish\VisualCalculator\bin\Debug\VisualCalculator.exe.config
+C:\Users\David\Desktop\Exercise Files\10_Visual\VisualCalculatorFinish\VisualCalculator\obj\Debug\VisualCalculator.exe
+C:\Users\David\Desktop\Exercise Files\10_Visual\VisualCalculatorFinish\VisualCalculator\obj\Debug\VisualCalculator.pdb
+C:\Users\David\Desktop\Exercise Files\10_Visual\VisualCalculatorFinish\VisualCalculator\bin\Debug\VisualCalculator.exe
+C:\Users\David\Desktop\Exercise Files\10_Visual\VisualCalculatorFinish\VisualCalculator\bin\Debug\VisualCalculator.pdb
+C:\Users\David\Desktop\Exercise Files\10_Visual\VisualCalculatorFinish\VisualCalculator\obj\Debug\VisualCalculator.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Exercise Files\10_Visual\VisualCalculatorFinish\VisualCalculator\obj\Debug\MainWindow.baml
+C:\Users\David\Desktop\Exercise Files\10_Visual\VisualCalculatorFinish\VisualCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\David\Desktop\Exercise Files\10_Visual\VisualCalculatorFinish\VisualCalculator\obj\Debug\App.g.cs
+C:\Users\David\Desktop\Exercise Files\10_Visual\VisualCalculatorFinish\VisualCalculator\obj\Debug\VisualCalculator_MarkupCompile.cache
+C:\Users\David\Desktop\Exercise Files\10_Visual\VisualCalculatorFinish\VisualCalculator\obj\Debug\VisualCalculator.g.resources
+C:\Users\David\Desktop\Exercise Files\10_Visual\VisualCalculatorFinish\VisualCalculator\obj\Debug\VisualCalculator.Properties.Resources.resources
+C:\Users\David\Desktop\Exercise Files\10_Visual\VisualCalculatorFinish\VisualCalculator\obj\Debug\VisualCalculator.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\Exercise Files\10_Visual\VisualCalculatorStart\VisualCalculator\bin\Debug\VisualCalculator.exe.config
+C:\Users\David\Desktop\Exercise Files\10_Visual\VisualCalculatorStart\VisualCalculator\obj\Debug\VisualCalculator.exe
+C:\Users\David\Desktop\Exercise Files\10_Visual\VisualCalculatorStart\VisualCalculator\obj\Debug\VisualCalculator.pdb

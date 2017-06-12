@@ -1,0 +1,23 @@
+﻿@{
+    Layout = "_AdminPopupLayout";
+}
+
+@model CheckoutAttributeValueModel
+
+@{
+    //page title
+    ViewBag.Title = T("Admin.Catalog.Attributes.CheckoutAttributes.Values.EditValueDetails").Text;
+}
+@using (Html.BeginForm())
+{
+    <div class="section-header">
+        <div class="title">
+            @T("Admin.Catalog.Attributes.CheckoutAttributes.Values.EditValueDetails")
+        </div>
+        <div class="options">
+            <button type="submit" name="save" value="save" class="btn btn-primary"><i class="fa fa-check"></i>&nbsp;@T("Admin.Common.Save")</button>
+        </div>
+    </div>
+
+    Html.RenderPartial("_CreateOrUpdateValue", Model);
+}

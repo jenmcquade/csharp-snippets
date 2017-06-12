@@ -1,0 +1,15 @@
+c:\users\joe\documents\visual studio 2013\Projects\ComposableDelegates\ComposableDelegates\bin\Debug\ComposableDelegates.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\ComposableDelegates\ComposableDelegates\obj\Debug\ComposableDelegates.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\ComposableDelegates\ComposableDelegates\bin\Debug\ComposableDelegates.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\ComposableDelegates\ComposableDelegates\bin\Debug\ComposableDelegates.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\ComposableDelegates\ComposableDelegates\obj\Debug\ComposableDelegates.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\ComposableDelegates\ComposableDelegates\obj\Debug\ComposableDelegates.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Delegates\ComposableDelegates\ComposableDelegates\bin\Debug\ComposableDelegates.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Delegates\ComposableDelegates\ComposableDelegates\obj\Debug\ComposableDelegates.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Delegates\ComposableDelegates\ComposableDelegates\obj\Debug\ComposableDelegates.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\Delegates\ComposableDelegates\ComposableDelegates\bin\Debug\ComposableDelegates.exe.config
+C:\Users\Joe Marini\Desktop\Exercise Files\Delegates\ComposableDelegates\ComposableDelegates\obj\Debug\ComposableDelegates.exe
+C:\Users\Joe Marini\Desktop\Exercise Files\Delegates\ComposableDelegates\ComposableDelegates\obj\Debug\ComposableDelegates.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\Delegates\ComposableDelegates\ComposableDelegates\bin\Debug\ComposableDelegates.exe
+C:\Users\Joe Marini\Desktop\Exercise Files\Delegates\ComposableDelegates\ComposableDelegates\bin\Debug\ComposableDelegates.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\Delegates\ComposableDelegates\ComposableDelegates\obj\Debug\ComposableDelegates.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Generics\IntroGenerics\IntroGenerics\bin\Debug\IntroGenerics.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Generics\IntroGenerics\IntroGenerics\obj\Debug\IntroGenerics.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Generics\IntroGenerics\IntroGenerics\bin\Debug\IntroGenerics.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Generics\IntroGenerics\IntroGenerics\bin\Debug\IntroGenerics.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Generics\IntroGenerics\IntroGenerics\obj\Debug\IntroGenerics.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Generics\IntroGenerics\IntroGenerics\obj\Debug\IntroGenerics.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Generics\IntroGenerics\IntroGenerics\bin\Debug\IntroGenerics.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Generics\IntroGenerics\IntroGenerics\obj\Debug\IntroGenerics.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Generics\IntroGenerics\IntroGenerics\obj\Debug\IntroGenerics.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Generics\IntroGenerics\IntroGenerics\obj\Debug\IntroGenerics.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Generics\IntroGenerics\IntroGenerics\bin\Debug\IntroGenerics.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Interfaces-Generics\Generics\IntroGenerics\IntroGenerics\bin\Debug\IntroGenerics.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\FinishedExamples\Ch03\03_01\IntroGenerics\bin\Debug\IntroGenerics.exe.config
+C:\Users\Joe Marini\Desktop\Exercise Files\FinishedExamples\Ch03\03_01\IntroGenerics\obj\Debug\IntroGenerics.exe
+C:\Users\Joe Marini\Desktop\Exercise Files\FinishedExamples\Ch03\03_01\IntroGenerics\obj\Debug\IntroGenerics.pdb

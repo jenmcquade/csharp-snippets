@@ -1,0 +1,13 @@
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\HelloWpf\HelloWpf\bin\Debug\HelloWpf.exe.config
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\HelloWpf\HelloWpf\bin\Debug\HelloWpf.exe
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\HelloWpf\HelloWpf\bin\Debug\HelloWpf.pdb
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\HelloWpf\HelloWpf\obj\Debug\HelloWpf.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\HelloWpf\HelloWpf\obj\Debug\MainWindow.baml
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\HelloWpf\HelloWpf\obj\Debug\MainWindow.g.cs
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\HelloWpf\HelloWpf\obj\Debug\App.g.cs
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\HelloWpf\HelloWpf\obj\Debug\HelloWpf_MarkupCompile.cache
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\HelloWpf\HelloWpf\obj\Debug\HelloWpf.g.resources
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\HelloWpf\HelloWpf\obj\Debug\HelloWpf.Properties.Resources.resources
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\HelloWpf\HelloWpf\obj\Debug\HelloWpf.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\HelloWpf\HelloWpf\obj\Debug\HelloWpf.exe
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\HelloWpf\HelloWpf\obj\Debug\HelloWpf.pdb

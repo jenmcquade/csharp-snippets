@@ -1,0 +1,6 @@
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\EventsSolution\EventsSolution\bin\Debug\EventsSolution.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\EventsSolution\EventsSolution\bin\Debug\EventsSolution.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\EventsSolution\EventsSolution\bin\Debug\EventsSolution.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\EventsSolution\EventsSolution\obj\Debug\EventsSolution.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\EventsSolution\EventsSolution\obj\Debug\EventsSolution.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\EventsSolution\EventsSolution\obj\Debug\EventsSolution.pdb

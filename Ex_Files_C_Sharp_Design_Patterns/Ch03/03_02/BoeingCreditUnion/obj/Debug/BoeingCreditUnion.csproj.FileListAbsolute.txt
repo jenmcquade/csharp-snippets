@@ -1,0 +1,7 @@
+B:\cygwin\home\Phin\Lessons\Ex_Files_CSharp_Design_Patterns\Ch03\03_02\BoeingCreditUnion\bin\Debug\BoeingCreditUnion.dll
+B:\cygwin\home\Phin\Lessons\Ex_Files_CSharp_Design_Patterns\Ch03\03_02\BoeingCreditUnion\bin\Debug\BoeingCreditUnion.pdb
+B:\cygwin\home\Phin\Lessons\Ex_Files_CSharp_Design_Patterns\Ch03\03_02\BoeingCreditUnion\bin\Debug\Interfaces.dll
+B:\cygwin\home\Phin\Lessons\Ex_Files_CSharp_Design_Patterns\Ch03\03_02\BoeingCreditUnion\bin\Debug\Interfaces.pdb
+B:\cygwin\home\Phin\Lessons\Ex_Files_CSharp_Design_Patterns\Ch03\03_02\BoeingCreditUnion\obj\Debug\BoeingCreditUnion.csprojResolveAssemblyReference.cache
+B:\cygwin\home\Phin\Lessons\Ex_Files_CSharp_Design_Patterns\Ch03\03_02\BoeingCreditUnion\obj\Debug\BoeingCreditUnion.dll
+B:\cygwin\home\Phin\Lessons\Ex_Files_CSharp_Design_Patterns\Ch03\03_02\BoeingCreditUnion\obj\Debug\BoeingCreditUnion.pdb

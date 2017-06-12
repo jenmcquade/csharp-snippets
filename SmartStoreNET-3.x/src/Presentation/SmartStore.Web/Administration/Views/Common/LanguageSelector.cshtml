@@ -1,0 +1,43 @@
+﻿@model LanguageSelectorModel
+           
+@if (Model.AvailableLanguages.Count > 1)
+{
+    using (Ajax.BeginForm("LanguageSelected", "Common", null, new AjaxOptions { OnComplete = "onLanguageChangedRequestCompleted();" }, new { id = "form-languageselector", @class = "hide" }))
+    {
+        @Html.Hidden("customerlanguage", Model.CurrentLanguage.Id)
+    }
+    
+    <div class="btn-group toppad pull-right">
+        <button class="btn dropdown-toggle navbar-tool" title='@Model.CurrentLanguage.Name' data-toggle="dropdown">
+			<i class="fa fa-language"></i>
+			<span>@Model.CurrentLanguage.UniqueSeoCode.ToUpper()</span>
+        </button>
+        <ul id="language-selector" class="dropdown-menu">
+            @foreach (var language in Model.AvailableLanguages)
+            {
+                <li @Html.Css("disabled", language.Id == Model.CurrentLanguage.Id)>
+                    <a href="javascript:void(0)" data-lang-id='@language.Id'>
+                        <img src='@Url.Content("~/Content/Images/flags/" + @language.FlagImageFileName)' alt="@language.Name" />
+                        @language.Name
+                    </a>
+                </li>
+            }
+        </ul>
+    </div>
+    
+    <script>
+        $(document).ready(function () {
+
+            $("#language-selector > li:not(.disabled) > a").click(function () {
+                var el = $(this);
+                var langId = el.data("lang-id");
+                $("#customerlanguage").val(langId);
+                $("#form-languageselector").submit();
+            });
+        });
+
+        function onLanguageChangedRequestCompleted() {
+            location.reload();
+        }
+    </script>
+}

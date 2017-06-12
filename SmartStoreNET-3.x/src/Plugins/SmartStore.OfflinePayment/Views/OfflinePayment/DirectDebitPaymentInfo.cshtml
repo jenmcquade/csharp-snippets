@@ -1,0 +1,59 @@
+﻿@model SmartStore.OfflinePayment.Models.DirectDebitPaymentInfoModel
+@using SmartStore.Web.Framework;
+@{
+    Layout = "";
+}
+
+<p class="text-muted">
+    @Html.Raw(Model.DescriptionText)
+</p>
+
+@Html.Hidden("OfflinePaymentMethodType", "DirectDebit")
+
+<div class="opt-form">
+    <div class="form-group row">
+        @Html.LabelFor(model => model.EnterIBAN, new { @class = "col-md-3 col-form-label" })
+        <div class="col-md-9">
+            <div class="form-check form-check-inline">
+                <label class="form-check-label">
+                    <input type="radio" id="EnterIBAN_1" name="EnterIBAN" value="no-iban" @(Model.EnterIBAN == "no-iban" ? "checked=\"checked\"" : "") class="form-check-input" />
+                    @T("Plugins.Payments.IPaymentDirectDebit.NoEnterIBAN")
+                </label>
+            </div>
+            <div class="form-check form-check-inline">
+                <label class="form-check-label">
+                    <input type="radio" id="EnterIBAN_2" name="EnterIBAN" value="iban" @(Model.EnterIBAN == "iban" ? "checked=\"checked\"" : "") class="form-check-input" />
+                    @T("Plugins.Payments.IPaymentDirectDebit.YesEnterIBAN")
+                </label>
+            </div>
+        </div>
+    </div>
+
+    @Html.ControlGroupFor(model => model.DirectDebitAccountHolder, required: true, breakpoint: "md")
+
+	<div class="ipayment-no-iban">
+        @Html.ControlGroupFor(model => model.DirectDebitAccountNumber, required: true, breakpoint: "md")
+        @Html.ControlGroupFor(model => model.DirectDebitBankCode, required: true, breakpoint: "md")
+        @Html.ControlGroupFor(model => model.DirectDebitCountry, required: true, breakpoint: "md")
+	</div>
+
+	<div class="ipayment-iban">
+        @Html.ControlGroupFor(model => model.DirectDebitIban, required: true, breakpoint: "md")
+        @Html.ControlGroupFor(model => model.DirectDebitBic, required: true, breakpoint: "md")
+	</div>
+
+    @Html.ControlGroupFor(model => model.DirectDebitBankName, required: true, breakpoint: "md")
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('input[name=EnterIBAN]').on('change', function () {
+            SwitchEnterIban($(this).filter(':checked').val());
+        }).trigger('change');
+    });
+
+    function SwitchEnterIban(newType) {
+        $('.ipayment-' + newType).slideDown('fast');
+        $('.ipayment-' + (newType === 'iban' ? 'no-iban' : 'iban')).slideUp('fast');
+    }
+</script>

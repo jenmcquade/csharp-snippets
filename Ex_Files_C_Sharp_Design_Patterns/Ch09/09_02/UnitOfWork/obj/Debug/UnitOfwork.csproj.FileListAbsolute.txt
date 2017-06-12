@@ -1,0 +1,88 @@
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\roslyn\csc.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\roslyn\vbc.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\roslyn\VBCSCompiler.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\Repository.dll.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\Repository.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\Repository.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\Antlr3.Runtime.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\EntityFramework.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\EntityFramework.SqlServer.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\Newtonsoft.Json.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\System.Web.Helpers.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\System.Web.Mvc.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\System.Web.Optimization.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\System.Web.Razor.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\System.Web.WebPages.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\System.Web.WebPages.Razor.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\WebGrease.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\EntityFramework.xml
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\EntityFramework.SqlServer.xml
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\System.Web.Helpers.xml
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\System.Web.Mvc.xml
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\System.Web.Optimization.xml
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\System.Web.Razor.xml
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\System.Web.WebPages.xml
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\System.Web.WebPages.Razor.xml
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\Antlr3.Runtime.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\bin\Newtonsoft.Json.xml
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\obj\Debug\UnitOfwork.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\obj\Debug\Repository.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch09\09_02\DesignPatterns\UnitOfWork\obj\Debug\Repository.pdb
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\roslyn\csc.exe
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\roslyn\System.Collections.Immutable.dll
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\roslyn\System.Reflection.Metadata.dll
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\roslyn\vbc.exe
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\roslyn\VBCSCompiler.exe
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\roslyn\VBCSCompiler.exe.config
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\Repository.dll.config
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\Repository.dll
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\Repository.pdb
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\Antlr3.Runtime.dll
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\EntityFramework.dll
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\EntityFramework.SqlServer.dll
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\Microsoft.Web.Infrastructure.dll
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\Newtonsoft.Json.dll
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\System.Web.Helpers.dll
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\System.Web.Mvc.dll
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\System.Web.Optimization.dll
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\System.Web.Razor.dll
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\System.Web.WebPages.Deployment.dll
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\System.Web.WebPages.dll
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\System.Web.WebPages.Razor.dll
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\WebGrease.dll
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\EntityFramework.xml
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\EntityFramework.SqlServer.xml
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\System.Web.Helpers.xml
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\System.Web.Mvc.xml
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\System.Web.Optimization.xml
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\System.Web.Razor.xml
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\System.Web.WebPages.xml
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\System.Web.WebPages.Deployment.xml
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\System.Web.WebPages.Razor.xml
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\Antlr3.Runtime.pdb
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\bin\Newtonsoft.Json.xml
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\obj\Debug\UnitOfwork.csprojResolveAssemblyReference.cache
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\obj\Debug\Repository.dll
+C:\Temp\Ex_Files_CSharp_Design_Patterns\Ch09\09_02\UnitOfWork\obj\Debug\Repository.pdb

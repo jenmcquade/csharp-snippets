@@ -1,0 +1,15 @@
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Generics\StacksQueues\StacksQueues\bin\Debug\StacksQueues.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Generics\StacksQueues\StacksQueues\obj\Debug\StacksQueues.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Generics\StacksQueues\StacksQueues\bin\Debug\StacksQueues.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Generics\StacksQueues\StacksQueues\bin\Debug\StacksQueues.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Generics\StacksQueues\StacksQueues\obj\Debug\StacksQueues.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Generics\StacksQueues\StacksQueues\obj\Debug\StacksQueues.pdb
+C:\Users\Joe\Desktop\Exercise Files\Ch03\03_03\StacksQueues\bin\Debug\StacksQueues.exe.config
+C:\Users\Joe\Desktop\Exercise Files\Ch03\03_03\StacksQueues\obj\Debug\StacksQueues.exe
+C:\Users\Joe\Desktop\Exercise Files\Ch03\03_03\StacksQueues\obj\Debug\StacksQueues.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\Ch03\03_03\StacksQueues\bin\Debug\StacksQueues.exe.config
+C:\Users\Joe Marini\Desktop\Exercise Files\Ch03\03_03\StacksQueues\obj\Debug\StacksQueues.exe
+C:\Users\Joe Marini\Desktop\Exercise Files\Ch03\03_03\StacksQueues\obj\Debug\StacksQueues.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\Ch03\03_03\StacksQueues\bin\Debug\StacksQueues.exe
+C:\Users\Joe Marini\Desktop\Exercise Files\Ch03\03_03\StacksQueues\bin\Debug\StacksQueues.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\Ch03\03_03\StacksQueues\obj\Debug\StacksQueues.csprojResolveAssemblyReference.cache

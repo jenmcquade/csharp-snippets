@@ -1,0 +1,18 @@
+﻿@model CheckoutBillingAddressModel
+
+@using SmartStore.Core.Domain.Orders;
+@using SmartStore.Web.Models.Checkout;
+@using SmartStore.Web.Models.Common;
+
+@{
+	Layout = "_Checkout";
+
+	//title
+	Html.AddTitleParts(T("PageTitle.Checkout").Text);
+}
+
+@section orderProgress{
+	@{ Html.RenderAction("CheckoutProgress", "Checkout", new { step = CheckoutProgressStep.Address, area = "" }); }
+}
+
+<h1>Hallo Welt</h1>

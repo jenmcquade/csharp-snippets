@@ -1,0 +1,93 @@
+﻿@model BlogPostModel
+@using SmartStore.Web.Models.Blogs;
+@{
+    Layout = "_Layout";
+
+    Html.AddTitleParts(!String.IsNullOrEmpty(Model.MetaTitle) ? Model.MetaTitle : Model.Title);
+    Html.AddMetaDescriptionParts(Model.MetaDescription);
+    Html.AddMetaKeywordParts(Model.MetaKeywords);
+}
+
+@section right {
+    @{
+        Html.RenderAction("BlogMonths", "Blog");
+        Html.RenderAction("BlogTags", "Blog");
+    }
+}
+
+<article class="page blogpost-page">  
+    <div class="blogpost-date text-muted">
+        @Model.CreatedOn.ToString("D")
+    </div>
+
+    <div class="page-title mb-6">
+		<h1 class="fs-h2">@Model.Title</h1>
+    </div>
+
+    <div class="blogpost-body">
+		@{ Html.RenderWidget("blogpost_page_before_body"); }
+        <div class="blogpost-content text-body">
+            @Html.Raw(Model.Body)
+        </div>
+
+        @if (Model.Tags.Count > 0)
+        {
+            <div class="blogpost-tags mt-4">
+                <i class="fa fa-tags" title='@T("Blog.Tags")'></i>
+                @for (int i = 0, length = Model.Tags.Count; i < length; i++)
+                {
+                    var tag = Model.Tags[i];
+                    var isLast = i == length - 1;
+                    <a class="blogpost-tag" href="@Url.RouteUrl("BlogByTag", new { tag = tag.SeName })">@tag.Name</a>@(!isLast ? ", " : "")
+                }
+            </div>
+        }
+
+		@{ Html.RenderWidget("blogpost_page_before_comments"); }
+
+		@if (Model.Comments.AllowComments)
+		{
+			<div class="row">
+				<div class="col-12">
+					<div class="block blog-comment-form mt-6">
+						@using (Html.BeginForm())
+						{
+							<fieldset class="blog-comment-form content-group mt-5">
+								<legend><span>@T("Blog.Comments.LeaveYourComment")</span></legend>
+
+								@if (ViewContext.ViewData.ModelState.ContainsKey(""))
+								{
+									@Html.ValidationSummary(true)
+								}
+
+								<div class="form-group">
+									@Html.TextAreaFor(model => model.AddNewComment.CommentText, new { @class = "form-control form-control-lg", placeholder = Html.DisplayNameFor(m => m.AddNewComment.CommentText), rows = "6" })
+									@Html.ValidationMessageFor(model => model.AddNewComment.CommentText)
+								</div>
+
+								@if (Model.AddNewComment.DisplayCaptcha)
+								{
+									<div class="form-group">
+										<div class="captcha-box">
+											@Html.Raw(Html.GenerateCaptcha())
+										</div>
+									</div>
+								}
+
+								<div class="form-group">
+									<button type="submit" name="add-comment" value="add-comment" class="btn btn-primary btn-lg">
+										@T("Blog.Comments.SubmitButton")
+									</button>
+								</div>
+							</fieldset>
+						}
+					</div>
+
+					@{ Html.RenderPartial("Comment.List", Model.Comments); }
+				</div>
+			</div>
+		}
+
+		@{ Html.RenderWidget("blogpost_page_after_comments"); }
+    </div>
+</article>

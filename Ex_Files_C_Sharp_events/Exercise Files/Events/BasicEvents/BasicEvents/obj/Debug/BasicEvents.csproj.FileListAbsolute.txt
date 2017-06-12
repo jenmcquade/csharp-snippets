@@ -1,0 +1,15 @@
+c:\users\joe\documents\visual studio 2013\Projects\BasicEvents\BasicEvents\bin\Debug\BasicEvents.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\BasicEvents\BasicEvents\obj\Debug\BasicEvents.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\BasicEvents\BasicEvents\bin\Debug\BasicEvents.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\BasicEvents\BasicEvents\bin\Debug\BasicEvents.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\BasicEvents\BasicEvents\obj\Debug\BasicEvents.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\BasicEvents\BasicEvents\obj\Debug\BasicEvents.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Events\BasicEvents\BasicEvents\bin\Debug\BasicEvents.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Events\BasicEvents\BasicEvents\obj\Debug\BasicEvents.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Events\BasicEvents\BasicEvents\obj\Debug\BasicEvents.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\Events\BasicEvents\BasicEvents\bin\Debug\BasicEvents.exe.config
+C:\Users\Joe Marini\Desktop\Exercise Files\Events\BasicEvents\BasicEvents\obj\Debug\BasicEvents.exe
+C:\Users\Joe Marini\Desktop\Exercise Files\Events\BasicEvents\BasicEvents\obj\Debug\BasicEvents.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\Events\BasicEvents\BasicEvents\bin\Debug\BasicEvents.exe
+C:\Users\Joe Marini\Desktop\Exercise Files\Events\BasicEvents\BasicEvents\bin\Debug\BasicEvents.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\Events\BasicEvents\BasicEvents\obj\Debug\BasicEvents.csprojResolveAssemblyReference.cache
